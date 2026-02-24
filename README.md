@@ -6,10 +6,11 @@ A full-stack online book shopping platform built with the MERN stack (MongoDB, E
 
 ## 👥 Team Members
 
-- **M. Sai Santosh Vamsi** - Full Stack Developer
-- **D.V.J. Kranthi Kumar** - Full Stack Developer  
-- **D.S.K. Prameela** - Full Stack Developer
-- **D. Varthika** - Full Stack Developer
+- **Janga Sai Sudheshna** 
+- **Velala Venkata Saketh**  
+- **Mavuri Lakshman** 
+- **Chittineedi Gowri Naga Durga Lakshmi Prasanna** 
+- **Kaladi Mohan Sai Varma**
 
 ## 🚀 Features
 
