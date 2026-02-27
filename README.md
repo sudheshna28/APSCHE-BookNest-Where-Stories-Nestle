@@ -457,16 +457,6 @@ We welcome contributions to BookNest! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 📞 Support & Contact
-
-For support, questions, or collaboration:
-- Create an issue in the repository
-- Contact the development team
-- Visit our live demo: [https://booknest.vercel.app](https://booknest.vercel.app)
 
 ## 🏆 Acknowledgments
 
